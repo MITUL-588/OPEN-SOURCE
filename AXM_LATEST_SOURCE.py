@@ -1,3 +1,4 @@
+"""OPEN BY ALTALIMUL ISLAM """
 #_____________________[ADMIN BOX]____________________________#
 """ AUTHOR : ALTALIMUL ISLAM MITUL """
 """ OWNER : ARAFAT AHAMMAD """
